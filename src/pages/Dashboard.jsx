@@ -255,7 +255,6 @@ const Dashboard = () => {
         </div>
       </section>
 
-      {/* Chatbot Section */}
       <section>
         <div className="flex justify-between items-center mb-6">
           <h2 className="text-xl font-semibold">Chatbot Data</h2>
@@ -313,7 +312,6 @@ const Dashboard = () => {
         </div>
       </section>
 
-      {/* Outreach Bot Section */}
       <section>
         <div className="flex justify-between items-center mb-6">
           <h2 className="text-xl font-semibold">Outreach Bot</h2>

@@ -53,7 +53,6 @@ const OverviewDashboard = () => {
   return (
     <div className="flex-col w-full">
       <div className="p-6 bg-gray-50 min-h-screen">
-        {/* Header */}
         <div className="flex justify-between items-center mb-8">
           <h1 className="text-2xl font-semibold">Overview</h1>
           <div className="flex items-center gap-4">
@@ -75,7 +74,6 @@ const OverviewDashboard = () => {
           </div>
         </div>
 
-        {/* Total Performance Section */}
         <div className="mb-8">
           <h2 className="text-xl font-semibold mb-4">Total Performance</h2>
           <div className="flex gap-4 mb-6">
@@ -134,7 +132,6 @@ const OverviewDashboard = () => {
           </div>
         </div>
 
-        {/* Agent Overview Section */}
         <div>
           <h2 className="text-xl font-semibold mb-4">Agent Overview</h2>
           <div className="flex gap-4 mb-6">
